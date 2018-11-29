@@ -243,7 +243,7 @@
   nav ul li a.active,
   nav ul li button.active {
     color:#FFF;
-    background:#2980b9;
+    background:#E47A2E;
   }
   nav ul li a .nav-expand,
   nav ul li button .nav-expand {
@@ -271,7 +271,7 @@
     font-size:.8em;
     line-height:18px;
     display:block;
-    border-left:4px solid #2980b9;
+    border-left:4px solid #E47A2E;
     white-space:nowrap;
   }
   nav ul li button {
@@ -282,6 +282,7 @@
     border-radius:0;
     height:auto;
   }
+
   nav ul li:hover>ul,
   nav ul li:active>ul,
   nav ul li:focus>ul {
@@ -391,7 +392,7 @@
   }
   #contest-info {
     font-size:1.25em;
-    border:5px solid #2980b9;
+    border:5px solid #E47A2E;
     border-left:5px dotted white;
     border-radius:0 4px 4px 0;
     background:rgba(0,0,0,.77);
@@ -482,14 +483,14 @@
   }
   #navicon.hover {
     color:#4db7fe;
-    text-shadow:0 0 5px #2980b9;
+    text-shadow:0 0 5px #E47A2E;
     transition-duration:.25s;
   }
   #nav-list {
     display:none;
     padding:0;
     margin-left:0;
-    border-left:4px solid #2980b9;
+    border-left:4px solid #E47A2E;
     position:fixed;
     top:36px;
     background:#3b3b3b;
@@ -1370,7 +1371,7 @@ th.header.rank {
 }
 
 a.user-redirect {
-  color:#2980b9;
+  color:#E47A2E;
   vertical-align:middle;
   font-size:1.2em;
   position:absolute;
@@ -1977,7 +1978,7 @@ input[type=password]:focus {
 
 .tabs .tab.active a,
 .tabs .tab.active span {
-  border-top-color:#2980b9 !important;
+  border-top-color:#E47A2E !important;
 }
 
 .tabs .tab.active .tab-icon {
@@ -2074,7 +2075,7 @@ ul.pagination>.disabled-page>span {
 ul.pagination>.active-page>a {
   z-index:2;
   color:#FFF;
-  background-color:#2980b9;
+  background-color:#E47A2E;
   border-color:transparent;
   cursor:default;
 }
@@ -2082,7 +2083,7 @@ ul.pagination>.active-page>a {
 ul.pagination>.active-page>span {
   z-index:2;
   color:#FFF;
-  background-color:#2980b9;
+  background-color:#E47A2E;
   border-color:transparent;
   cursor:default;
 }
@@ -2344,7 +2345,7 @@ a.voted {
 }
 
 .comment:target>.comment-box {
-  border-left:10px solid #2980b9;
+  border-left:10px solid #E47A2E;
   padding-left:5px;
 }
 
@@ -2628,7 +2629,7 @@ label[for=status] {
   padding-left:1em;
   padding-bottom:3px;
   padding-top:3px;
-  border:1px solid #2980b9;
+  border:1px solid #E47A2E;
   border-left-width:.5em;
   border-radius:4px;
   color:#222;
